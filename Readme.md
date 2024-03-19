@@ -1,4 +1,4 @@
-## 100 DAYS OF TYPESCRIPT
+# 100 DAYS OF TYPESCRIPT
 Here is files of 100 Days of Tasks Assigned by Governor Initiative of AI, Web 3.O and Blockchain. 
 
 ** Note 45 Tasks has been uploaded here **
@@ -26,4 +26,4 @@ There is three tasks:
     <li>Making Flexible Object Keys: Learn how to set up a list where you can change the name of each section based on what you need at that moment, like adjusting labels based on user choices.</li>
 </ul>
 
-# We are so thankful to Governor Kamran Tissori, Zia Khan, Hania Amir, Aharib Ali and Other faculty members at Governor Initiative of AI for providing these next level courses to us!
+## We are so thankful to Governor Kamran Tissori, Zia Khan, Hania Amir, Aharib Ali and Other faculty members at Governor Initiative of AI for providing these next level courses to us!
