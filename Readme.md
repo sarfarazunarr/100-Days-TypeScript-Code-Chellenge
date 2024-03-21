@@ -26,4 +26,24 @@ There is three tasks:
     <li>Making Flexible Object Keys: Learn how to set up a list where you can change the name of each section based on what you need at that moment, like adjusting labels based on user choices.</li>
 </ul>
 
+## Day 19
+<ul>
+    <li>Double Numbers in an Array: Make a list of numbers. Then, use a trick to make a new list where each number is twice its original value.</li>
+    <li>Keep Only Strings: Given a mix of different types of items, make a new list that has only the words.
+</li>
+    <li>Find the Average Grade: Given a list of grades, calculate the average grade.
+</li>
+</ul>
+
+## Day 20
+<ul>
+    <li>Average Score Calculator: Write a simple program that can take lots of scores and find their average.
+</li>
+    <li>Add a Special Number: Make a program that creates custom adders. These adders can add a specific number to any other number you give them later.
+</li>
+    <li>Self-Running User Profile: Create a quick, self-setup profile for a user that can tell you the user's name and age.
+
+</li>
+</ul>
+
 ## We are so thankful to Governor Kamran Tissori, Zia Khan, Hania Amir, Aharib Ali and Other faculty members at Governor Initiative of AI for providing these next level courses to us!
