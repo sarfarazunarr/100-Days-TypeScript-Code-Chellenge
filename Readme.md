@@ -46,4 +46,14 @@ There is three tasks:
 </li>
 </ul>
 
+## Day 21
+<ul>
+    <li>Making Enums for Vehicles: Let's create categories for vehicles like cars, trucks, and motorcycles using enums, and show one example.
+</li>
+    <li>Making a Student Template: Create a blueprint for student information, including their name, age, and the classes they're taking, and then fill in this blueprint with an example student.
+</li>
+    <li>Shape Shifter: Write a program that can describe either a circle or a rectangle using a special type alias, including properties unique to each shape.
+</li>
+</ul>
+
 ## We are so thankful to Governor Kamran Tissori, Zia Khan, Hania Amir, Aharib Ali and Other faculty members at Governor Initiative of AI for providing these next level courses to us!
