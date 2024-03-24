@@ -56,4 +56,24 @@ There is three tasks:
 </li>
 </ul>
 
+## Day 22
+<ul>
+    <li>Combine Strings and Numbers, Write a function that merges a piece of text with a number.
+</li>
+    <li>Determine the Remainder: Make a function that gets two number and shows the leftover from dividing them using % sign. 
+</li>
+    <li>Logical AND verification Create a function that checks two boolean (true and false) values. It should only say true if both are true an, using the & operator. 
+</li>
+</ul>
+
+## Day 23
+<ul>
+    <li>Write a function that takes two arguments one number and string return thier answer of arithmatic in number
+</li>
+    <li>Multiplying Decimal: Create a function that accepts two arguments (deciaml numbers) and return their product. Round the result to two decmial places
+</li>
+    <li>Dividing and finding the remainder: write a function that divides two number and returns both the quotient and remainder. use an objecy to retrn both values.
+</li>
+</ul>
+
 ## We are so thankful to Governor Kamran Tissori, Zia Khan, Hania Amir, Aharib Ali and Other faculty members at Governor Initiative of AI for providing these next level courses to us!
